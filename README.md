@@ -7,7 +7,7 @@ Big data trend has enforced the data-centric systems to have continuous fast dat
 
 ## Methodologies :
 
-1- Get live Stream of tweets from Twitter API:
+## >> 1- Get live Stream of tweets from Twitter API:
 
 First of all, I have submitted an application for twitter developer to use twitter API. Then, once it has been approved, I have created an APP to get credentials from the Development Portal (consumer_key, consumer_secret_key,Access_token,Access_token_secret).
 
@@ -20,7 +20,7 @@ At this stage, I take the time to understand what kafka is, how it works, and wh
 There are three players in the Kafka ecosystem: producers, topics (run by brokers) and consumers.
 ![image](https://user-images.githubusercontent.com/48545560/138676116-80e1a12a-34d8-4616-8ed3-05c801e3b7a9.png)
 
- # start a Zookeeper instance, create a Kafka broker, and publish/subscribe to topics in kafka directory.
+ * start a Zookeeper instance, create a Kafka broker, and publish/subscribe to topics in kafka directory.* 
 
 ![image](https://user-images.githubusercontent.com/48545560/138676262-cd3e512d-4562-41c5-9b2e-3b353885d92f.png)
 
