@@ -18,5 +18,12 @@ Then, With a simple script, I can get a live stream of tweets using a specific k
 At this stage, I take the time to understand what kafka is, how it works, and why I need it. Kafka is a distributed publish-subscribe messaging system that maintains feeds of messages in partitioned and replicated topics. 
 
 There are three players in the Kafka ecosystem: producers, topics (run by brokers) and consumers.
+![image](https://user-images.githubusercontent.com/48545560/138676116-80e1a12a-34d8-4616-8ed3-05c801e3b7a9.png)
+
+ # start a Zookeeper instance, create a Kafka broker, and publish/subscribe to topics in kafka directory.
+
+![image](https://user-images.githubusercontent.com/48545560/138676262-cd3e512d-4562-41c5-9b2e-3b353885d92f.png)
+
+
 
 
