@@ -34,12 +34,11 @@ In this approach, I ‘ve developed 2 scripts : one for Producers produce messag
 ## ** Future Enhancements
 
 1- Spark: 
-I searched about it and installed it but I don’t have enough time to implement the final version of code with pyspark.
-So, This is one of the first future enhancements I will do in the prolect.
+This is one of the first future enhancements I will do in the prolect.
+
 2- Get Flexibility for user to enter the keyword which he want to search on: 
 By implementing a simple web script using html to take the keyword from the user.
-3- Filter and Clean tweets more using NLP tools:
-Using NLTK , Spacy ,and TextBlob.
+
 
 ## ** Technologies used
 Pycharm
